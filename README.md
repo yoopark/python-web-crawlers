@@ -20,9 +20,11 @@ pip install requests beautifulsoup4
 ## Example
 
 1. 맞았을 때
+
 ![correct](https://user-images.githubusercontent.com/61629480/183429350-9ef6c3e2-aed8-41b7-a764-c42497e75132.png)
 
-2. 틀렸을 때
+2. 틀렸을 때 
+
 ![wrong](https://user-images.githubusercontent.com/61629480/183429358-c8d24f50-8c3d-467c-aa35-62c1d57a6027.png)
 
 ## 추가 예정 기능
