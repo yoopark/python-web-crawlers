@@ -52,9 +52,9 @@ for i in range(1, 10): # 예제 입력 1 ~ 9
     user_output = ps.stdout.decode("UTF-8")
     
     sample_output = sample_output.rstrip("\r\n ")
-    user_output = user_output.rstrip("\r\n ")
+    user_output = user_output.rstrip("\n ")
     
-    sample_output_lines = sample_output.split("\r\n")
+    sample_output_lines = sample_output.split("\n")
     user_output_lines = user_output.split("\n")
     
     result = diff(sample_output_lines, user_output_lines)
