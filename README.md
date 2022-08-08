@@ -28,5 +28,6 @@ pip install requests beautifulsoup4
 ![wrong](https://user-images.githubusercontent.com/61629480/183429358-c8d24f50-8c3d-467c-aa35-62c1d57a6027.png)
 
 ## 추가 예정 기능
+- Python stderr의 경우 별도 표시
 - Python 이외 언어로 확장
 - 테스트를 통과하였을 경우, 제출과 제출 결과 보기 자동화
